@@ -1,7 +1,7 @@
 # LeetCode_solutions
 My solutions for programming practice questions on LeetCode
 
-This repository contains my solutions for the coding problems on LeetCode. The problems are marked by the sequence number given by LeetCode instead of tags as multiple tags may apply to one single problem.
+This repository contains my solutions for the coding problems on LeetCode. 
 
 The algorithms problems are coded in Java as I'm more familiar with data structures in Java. I'll slowly revisit the problems trying to program in Python as well. 
 
